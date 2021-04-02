@@ -1,0 +1,74 @@
+.origami{
+    background-color: darkkhaki;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-around;
+}
+
+.row2{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-around;
+}
+
+
+.row1column1{
+    display: flex;
+    flex-direction: column;
+    background-color: darksalmon;
+}
+
+.row1column2{
+    display: flex;
+    flex-direction: column;
+    background-color:dodgerblue;
+}
+
+.row1column3{
+    display: flex;
+    flex-direction: column;
+    background-color: darksalmon;
+}
+
+
+.row2column1{
+    display: flex;
+    flex-direction: column;
+    background-color:dodgerblue;
+}
+
+.row2column2{
+    display: flex;
+    flex-direction: column;
+    background-color: darksalmon;
+}
+
+.row2column3{
+    display: flex;
+    flex-direction: column;
+    background-color:dodgerblue;
+}
+
+
+.headersColumn{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(108, 248, 206);
+}
+
+.headersRow1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.headersRow2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
